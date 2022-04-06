@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fasterxml.uuid.java.generator" type="repository">
+    <properties maven-id="com.fasterxml.uuid:java-uuid-generator:3.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/uuid/java-uuid-generator/3.1.1/java-uuid-generator-3.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.13/log4j-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

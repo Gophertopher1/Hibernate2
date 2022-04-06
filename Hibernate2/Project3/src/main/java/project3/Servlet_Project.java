@@ -10,6 +10,12 @@ import java.io.PrintWriter;
 import java.sql.Date;
 import java.util.List;
 
+
+
+/** Coding written was a combined help with Marvel and Myself working together in a teaching session hosted by him */
+
+
+
 @WebServlet(name = "Servlet_Project", urlPatterns = {"/project.html"})//value = "/Servlet_Project",
 public class Servlet_Project extends HttpServlet {
     @Override
@@ -78,8 +84,8 @@ public class Servlet_Project extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-
-            String pCode = request.getParameter("code");
+// Coding written was a combined help with Marvel and Myself working together in a teaching session hosted by him
+        String pCode = request.getParameter("code");
         String pName = request.getParameter("name");
         String pDate = request.getParameter("date");
         String pPoints = request.getParameter("points");

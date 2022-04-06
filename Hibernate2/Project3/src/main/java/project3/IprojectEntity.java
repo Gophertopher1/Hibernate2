@@ -2,7 +2,7 @@ package project3;
 
 import javax.persistence.*;
 import java.sql.Date;
-
+/** Coding written was a combined help with Marvel and Myself working together in a teaching session hosted by him */
 @Entity
 @Table(name = "iproject", schema = "project", catalog = "")
 public class IprojectEntity {

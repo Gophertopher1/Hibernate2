@@ -1,5 +1,7 @@
 function addProject() {
     //create individual forms for individual rows.
+
+    // Code was written together between Marvel and Myself for the Basic.js file in a teaching session hosted by him
     let formLength = document.forms.length;
 
     //create the form

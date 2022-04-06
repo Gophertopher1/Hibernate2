@@ -7,6 +7,7 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.service.ServiceRegistry;
 
 /** This class sets up the session factory used by the TestDAO class */
+
 public class HibernateUtils {
 
     private static final SessionFactory sessionFactory = buildSessionFactory();

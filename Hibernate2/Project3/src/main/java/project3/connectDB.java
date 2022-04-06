@@ -52,7 +52,7 @@ public class connectDB {
         }
 
     }
-
+/** Coding written was a combined help with Marvel and Myself working together in a teaching session hosted by him */
     /** Used to get a single customer from database */
     public IprojectEntity getProject(int id) {
 
